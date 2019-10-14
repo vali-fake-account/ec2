@@ -13,7 +13,7 @@ class t_ec2 {
     }
 
 
-    compute_this(){
+    compute_solutions(){
         var delta = this.b * this.b - 4 * this.a * this.c ;
 
         if(delta >= 0){
