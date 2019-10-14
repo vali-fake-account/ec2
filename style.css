@@ -1,0 +1,13 @@
+input {
+    width: 2em;
+    border: 2px solid #247fab;
+}
+
+button {
+    border: 2px solid #247fab;
+}
+
+* {
+    color: #62AC49;
+    background-color: #161616;
+}
